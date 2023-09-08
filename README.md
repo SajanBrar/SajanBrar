@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sajanbrar009@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/169zrviEn3ulUoypUm7s_mewRTSHpPLld/view?usp=sharing)
 
 - ⚡ Fun fact **Interested in Literature, Poetry, History and Philosophy.**
 
