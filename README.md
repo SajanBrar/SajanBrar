@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajanjit Singh Brar</h1>
-<h3 align="center">Machine Learning and Data Science enthusiast.</h3>
+<h3 align="center">Machine Learning and Data Science enthusiast</h3>
 
 - 🌱 I’m currently learning: **Machine Learning, Artificial Intelligence, Data Science, Quantum Computing.**
 
