@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning and Data Science enthusiast.<br><br>🌱 **I’m currently learning:** Machine Learning, Artificial Intelligence, Data Science and Analytics.<br><br>💬 **Ask me about:** Machine Learning, Data Science.<br><br>📫 **How to reach me:** sajanbrar009@gmail.com<br><br>⚡ **Fun fact:** Interested in Books, Literature, Poetry, History and Philosophy.
+Machine Learning and Data Science enthusiast.<br><br>🌱 **Areas of Interest:** Machine Learning, Artificial Intelligence, Statistics, Mathematics, Data Science.<br><br>📫 **How to reach me:** sajanbrar009@gmail.com<br><br>⚡Also interested in Books, Literature, Poetry, History and Philosophy.
 
 
 ## 🌐 Socials:
